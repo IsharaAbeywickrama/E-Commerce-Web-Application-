@@ -1,12 +1,17 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern e-commerce app built with React, Vite, and Tailwind CSS for front end  featuring product browsing, details, cart, authentication, responsive design, clean structure, routing, and reusable components for learning full-stack development.
 
-Currently, two official plugins are available:
+React | vite | Tailwind css
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Ishara Image](https://github.com/IsharaAbeywickrama/image-file/blob/main/login%20e%20com.png)
 
-## Expanding the ESLint configuration
+![Ishara Image](https://github.com/IsharaAbeywickrama/image-file/blob/main/sign%20up%20%20ecom.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Ishara Image](https://github.com/IsharaAbeywickrama/image-file/blob/main/home%20e%20com%20we.png)
+
+![Ishara Image](https://github.com/IsharaAbeywickrama/image-file/blob/main/fashion%20e%20com.png)
+
+![Ishara Image](https://github.com/IsharaAbeywickrama/image-file/blob/main/product%20e%20com.png)
+
+![Ishara Image](https://github.com/IsharaAbeywickrama/image-file/blob/main/product%20details%20e%20com.png)
